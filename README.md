@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student @ AUT | Data Engineer</h3>
 
 <p align="center">
-CS student at Amirkabir University of Technology (Tehran Polytechnic), working as a Data Engineer.<br/>
+Computer Science student at Amirkabir University of Technology (Tehran Polytechnic) and Data Engineer.<br/>
 Focused on Data Engineering, LLM Engineering and Backend Development.
 </p>
 
@@ -24,7 +24,7 @@ Focused on Data Engineering, LLM Engineering and Backend Development.
   </a>
 </p>
 
-#### Languages:
+#### Languages & Databases:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=61AFEF" />
   <img src="https://img.shields.io/badge/Java-282C34?style=for-the-badge&logo=java&logoColor=D19A66" />
@@ -39,12 +39,11 @@ Focused on Data Engineering, LLM Engineering and Backend Development.
   <img src="https://img.shields.io/badge/Linux-282C34?style=for-the-badge&logo=linux&logoColor=E5C07B" />
   <img src="https://img.shields.io/badge/Git-282C34?style=for-the-badge&logo=git&logoColor=E06C75" />
   <img src="https://img.shields.io/badge/Fortinet-282C34?style=for-the-badge&logo=fortinet&logoColor=E06C75" />
-  <img src="https://img.shields.io/badge/LaTeX-282C34?style=for-the-badge&logo=latex&logoColor=E5C07B" />
 
 </p>
 
 
-#### Data & AI:
+#### Data, ML & AI:
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-282C34?style=for-the-badge&logo=numpy&logoColor=61AFEF" />
   <img src="https://img.shields.io/badge/pandas-282C34?style=for-the-badge&logo=pandas&logoColor=C678DD" />
@@ -53,7 +52,6 @@ Focused on Data Engineering, LLM Engineering and Backend Development.
   <img src="https://img.shields.io/badge/Seaborn-282C34?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PySpark-282C34?style=for-the-badge&logo=apachespark&logoColor=E06C75" />
   <img src="https://img.shields.io/badge/Hugging%20Face-282C34?style=for-the-badge&logo=huggingface&logoColor=E5C07B" />
-  <img src="https://img.shields.io/badge/Harness-282C34?style=for-the-badge" />
 </p>
 
 #### GitHub Stats:
