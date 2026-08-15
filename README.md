@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kiana</h1>
 <h3 align="center">Computer Science Student @ AUT | Data Engineer</h3>
 
-- 🎓 Computer Science Student at Amirkabir University of Technology (Tehran Polytechnic) and Data Engineer
-- 🔭 Interested in LLM Engineering, Agentic AI, and Back-End Development
-- 🌱 Currently exploring more about agentic workflows and LLM tooling
-- 💬 Ask me about Python, data pipelines, or machine learning
-- 📫 Reach me at kiana.pahlevan05@gmail.com
+-  Computer Science Student at Amirkabir University of Technology (Tehran Polytechnic) and Data Engineer
+-  Interested in LLM Engineering, Agentic AI, and Back-End Development
+-  Currently exploring more about agentic workflows and LLM tooling
 
 #### Connect with me:
 <p align="center">
@@ -13,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-282C34?style=for-the-badge&logo=gmail&logoColor=C678DD" />
   </a>
   <a href="https://www.linkedin.com/in/kiana-pahlevan/">
-    <img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=C678DD" />
+    <img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge" />
   </a>
   <a href="https://kianapahlevan.ir/">
     <img src="https://img.shields.io/badge/Portfolio-282C34?style=for-the-badge" />
@@ -38,7 +36,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-282C34?style=for-the-badge&logo=numpy&logoColor=61AFEF" />
   <img src="https://img.shields.io/badge/pandas-282C34?style=for-the-badge&logo=pandas&logoColor=C678DD" />
-  <img src="https://img.shields.io/badge/scikit--learn-282C34?style=for-the-badge&logo=scikit-learn&logoColor=D19A66" />
+  <img src="https://img.shields.io/badge/scikit--learn-282C34?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SciPy-282C34?style=for-the-badge&logo=SciPy&logoColor=56B6C2" />
   <img src="https://img.shields.io/badge/Seaborn-282C34?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PySpark-282C34?style=for-the-badge&logo=apachespark&logoColor=E06C75" />
