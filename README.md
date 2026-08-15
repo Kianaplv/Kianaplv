@@ -22,28 +22,28 @@
 
 #### Languages & Frameworks:
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=61AFEF" />
+  <img src="https://img.shields.io/badge/Java-282C34?style=for-the-badge&logo=java&logoColor=D19A66" />
+  <img src="https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=56B6C2" />
+  <img src="https://img.shields.io/badge/Linux-282C34?style=for-the-badge&logo=linux&logoColor=E5C07B" />
+  <img src="https://img.shields.io/badge/Git-282C34?style=for-the-badge&logo=git&logoColor=E06C75" />
+  <img src="https://img.shields.io/badge/MySQL-282C34?style=for-the-badge&logo=mysql&logoColor=61AFEF" />
+  <img src="https://img.shields.io/badge/LaTeX-282C34?style=for-the-badge&" />
+  <img src="https://img.shields.io/badge/Docker-282C34?style=for-the-badge&logo=docker&logoColor=56B6C2" />
+  <img src="https://img.shields.io/badge/FastAPI-282C34?style=for-the-badge&logo=fastapi&logoColor=98C379" />
+  <img src="https://img.shields.io/badge/Fortinet-282C34?style=for-the-badge&logo=fortinet&logoColor=E06C75" />
 </p>
 
 #### LLM & Data Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-282C34?style=for-the-badge&logo=numpy&logoColor=61AFEF" />
+  <img src="https://img.shields.io/badge/pandas-282C34?style=for-the-badge&logo=pandas&logoColor=C678DD" />
+  <img src="https://img.shields.io/badge/scikit--learn-282C34?style=for-the-badge&logo=scikit-learn&logoColor=D19A66" />
+  <img src="https://img.shields.io/badge/SciPy-282C34?style=for-the-badge&logo=SciPy&logoColor=56B6C2" />
+  <img src="https://img.shields.io/badge/Seaborn-282C34?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PySpark-282C34?style=for-the-badge&logo=apachespark&logoColor=E06C75" />
   <img src="https://img.shields.io/badge/Harness-282C34?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-282C34?style=for-the-badge&logo=huggingface&logoColor=E5C07B" />
 </p>
 
 #### GitHub Stats:
