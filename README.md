@@ -10,7 +10,7 @@
   <a href="mailto:kiana.pahlevan05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-282C34?style=for-the-badge&logo=gmail&logoColor=C678DD" />
   </a>
-  <a href="https://www.linkedin.com/in/kiana-pahlevan/">
+  <a href="www.linkedin.com/in/kiana-pahlevan-9b033634b">
     <img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge" />
   </a>
   <a href="https://kianapahlevan.ir/">
