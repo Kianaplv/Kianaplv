@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiana</h1>
-<h3 align="center">Computer Science Student at Amirkabir University of Technology (Tehran Polytechnic) | Data Engineer</h3>
+<h3 align="center">Computer Science Student @ AUT | Data Engineer</h3>
 
-- 🎓 Computer Science Student @ AUT and Data Engineer
+- 🎓 Computer Science Student at Amirkabir University of Technology (Tehran Polytechnic) and Data Engineer
 - 🔭 Interested in LLM Engineering, Agentic AI, and Back-End Development
 - 🌱 Currently exploring more about agentic workflows and LLM tooling
 - 💬 Ask me about Python, data pipelines, or machine learning
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=C678DD" />
   </a>
   <a href="https://kianapahlevan.ir/">
-    <img src="https://img.shields.io/badge/Portfolio-282C34?style=for-the-badge&logo=googlechrome&logoColor=C678DD" />
+    <img src="https://img.shields.io/badge/Portfolio-282C34?style=for-the-badge" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kianaplv&layout=compact&theme=one_dark_pro" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kianaplv&layout=compact&theme=one_dark_pro" />
 </p>
 
 ---
