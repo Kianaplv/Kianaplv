@@ -1,22 +1,7 @@
 # Hi, I'm Kiana
 
 - 🎓 Computer Science Student @ AUT and Data Engineer
-- 📍 Interested in Deep Learning and Machine Learning, Computer Vision, and also Back-End Development
-<!--
-**Kianaplv/Kianaplv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 📍 Interested in LLM Engineering, Harnes, and also Back-End Development
 
 
 
@@ -28,7 +13,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://kianapahlevan.ir/">
-  <img align="center" src="![Static Badge](https://img.shields.io/badge/Portfolio%20-%20orange)" />
+  <img align="center" src="https://img.shields.io/badge/Portfolio%20-%20orange)" />
 </a>
 
 
@@ -49,39 +34,6 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kianaplv&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api?username=Kianaplv&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=one_dark_pro)
 
-<!-- <a href="https://github.com/pedram-ep">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedram-ep&hide_progress=true&theme=transparent" />
-</a> -->
 
-<!--
-## Featured Projects
-<a href="https://github.com/pedram-ep/hosvd-image-denoising">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=hosvd-image-denoising" />
-</a>
-<a href="https://github.com/pedram-ep/NF-ToN-IoT-V2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=NF-ToN-IoT-V2" />
-</a>
-
-
-<a href="https://github.com/pedram-ep/UMAP-variants">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=UMAP-variants" />
-</a>
-<a href="https://github.com/pedram-ep/BBC-News-Topic-Modeling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=BBC-News-Topic-Modeling" />
-</a>
-
-
-<a href="https://github.com/pedram-ep/zacharys-karate-club">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=zacharys-karate-club" />
-</a>
-<a href="https://github.com/pedram-ep/primal-dual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=primal-dual" />
-</a>
-
-
-<a href="https://github.com/pedram-ep/skip-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedram-ep&repo=skip-list" />
-</a>
--->
 
 ---
